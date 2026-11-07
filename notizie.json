@@ -1,5 +1,5 @@
 {
-  "controllatoIl": "2026-11-02T08:15:00+01:00",
+  "controllatoIl": "2026-11-07T08:06:04+01:00",
   "notizie": [
     {
       "id": "pcm-dm-2026-disabili-ets",
@@ -8,7 +8,9 @@
       "data": "2026-07-23",
       "titolo": "Contributo per gli enti del Terzo settore che assumono giovani con disabilità a tempo indeterminato",
       "riassunto": "Gli enti del Terzo settore iscritti al RUNTS che assumono a tempo indeterminato (L. 68/1999), o trasformano a tempo indeterminato, persone con disabilità sotto i 35 anni entro il 31/12/2026 possono chiedere un contributo fino a 12.000 euro una tantum più 1.000 euro per ogni mese dall'assunzione al 31/12/2026. La domanda va inviata via PEC al Dipartimento disabilità entro il 31/12/2026; il rapporto deve essere in corso al 31/12/2026. È cumulabile con gli altri incentivi per l'assunzione di disabili; fondi limitati (25 milioni).",
-      "incentivi": ["disabili-l68"],
+      "incentivi": [
+        "disabili-l68"
+      ],
       "stato": "in_verifica",
       "url": "https://disabilita.governo.it/it/avvisi-e-bandi/pubblicato-il-decreto-per-gli-incentivi-al-lavoro-delle-persone-con-disabilita-negli-enti-del-terzo-settore/"
     }
