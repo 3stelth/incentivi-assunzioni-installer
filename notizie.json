@@ -1,6 +1,32 @@
 {
-  "controllatoIl": "2026-11-07T08:06:04+01:00",
+  "controllatoIl": "2026-11-14T08:10:00+01:00",
   "notizie": [
+    {
+      "id": "inps-msg-2026-3661",
+      "tipo": "messaggio_inps",
+      "numero": "n. 3661 del 10/11/2026",
+      "data": "2026-11-10",
+      "titolo": "SIISL obbligatorio dal 1/12/2026 per gli incentivi alle assunzioni: istruzioni INPS per UniEmens",
+      "riassunto": "Per le assunzioni dal 1/12/2026 gli incentivi elencati dall'INPS (bonus Donne, Giovani e ZES 2026, ADI e SFL, under 30, donne svantaggiate e over 50, NASpI, CIGS, disabili, madri di tre figli, sostituzione congedo e altri) spettano solo se la posizione è pubblicata sul SIISL prima o il giorno dell'assunzione. Se la pubblicazione arriva dopo, l'incentivo spetta solo dal mese della pubblicazione. Dal 1/4 al 30/11/2026 la pubblicazione resta facoltativa e l'obbligo non vale per le trasformazioni a tempo indeterminato. Nel flusso UniEmens va indicato l'id vacancy (TipoIdentMotivoUtilizzo ID_VACANCY; per i codici TipoContribuzione e TipoIncentivo con la nuova causale VPIV).",
+      "incentivi": [
+        "bonus-donne-2026",
+        "bonus-giovani-2026",
+        "bonus-zes-2026",
+        "adi-sfl",
+        "donne-vittime-violenza",
+        "esonero-under30",
+        "ex-studenti-apprendisti",
+        "donne-l92",
+        "over50-l92",
+        "naspi-20",
+        "cigs-3-mesi",
+        "disabili-l68",
+        "sostituzione-maternita",
+        "madri-tre-figli"
+      ],
+      "stato": "in_verifica",
+      "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.11.messaggio-numero-3661-del-10-11-2026_16411.html"
+    },
     {
       "id": "pcm-dm-2026-disabili-ets",
       "tipo": "decreto",
