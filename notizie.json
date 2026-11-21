@@ -1,6 +1,17 @@
 {
-  "controllatoIl": "2026-11-14T08:10:00+01:00",
+  "controllatoIl": "2026-11-21T08:06:00+01:00",
   "notizie": [
+    {
+      "id": "mlps-dm-2026-134",
+      "tipo": "decreto",
+      "numero": "DM Lavoro n. 134 del 05/10/2026 (comunicato in GU n. 271 del 20/11/2026)",
+      "data": "2026-10-05",
+      "titolo": "SIISL: pubblicato in Gazzetta il decreto sulle posizioni di lavoro per accedere ai benefici contributivi",
+      "riassunto": "Il decreto attuativo dell'art. 14, c. 5, DL 159/2025 dice che dal 1/4/2026 i benefici contributivi per i datori di lavoro privati spettano solo se la posizione di lavoro è pubblicata sul SIISL (non vale per i benefici già richiesti o in corso al 1/4/2026 per assunzioni precedenti). Fino al 30/11/2026, in via sperimentale, la pubblicazione può avvenire anche dopo l'assunzione: dal 1/12/2026 va quindi fatta prima. Il SIISL fornisce i dati per il flusso UniEmens; le Agenzie per il lavoro devono pubblicare sul SIISL tutte le posizioni che gestiscono. Le istruzioni operative INPS sono nel messaggio 3661 del 10/11/2026.",
+      "incentivi": [],
+      "stato": "in_verifica",
+      "url": "https://www.lavoro.gov.it/sites/default/files/documenti-e-norme/normativa/DM%20n.%20134%20del%2005%20ottobre%202026.pdf"
+    },
     {
       "id": "inps-msg-2026-3661",
       "tipo": "messaggio_inps",
